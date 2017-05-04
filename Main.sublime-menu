@@ -1,0 +1,21 @@
+[
+{
+	"caption": "Preferences",
+	"id": "preferences",
+	"children":
+    [
+    {
+        "caption": "Customized Settings",
+        "id": "customized-settings",
+        "children":
+        [
+        {
+            "caption": "meta up",
+            "id": "meta up",
+            "command": "move_caret_top"
+        }
+        ]
+    }
+    ]
+}
+]
