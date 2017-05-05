@@ -1,0 +1,4 @@
+[
+	{ "keys": ["alt+up"], "command": "multi_up", "args": {"nlines": 5} },
+	{ "keys": ["alt+down"], "command": "multi_down", "args": {"nlines": 5} }
+]
