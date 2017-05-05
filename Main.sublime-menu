@@ -1,26 +1,26 @@
 [
-{
-	"caption": "Preferences",
-	"id": "preferences",
-	"children":
-    [
-    {
-        "caption": "Customized Settings",
-        "id": "customized-settings",
-        "children":
-        [
-        {
-            "caption": "multi_up",
-            "id": "multi_up",
-            "command": "multi_up"
-        },
-        {
-        	"caption": "multi_down",
-        	"id": "multi_down",
-        	"command": "multi_down"
-        }
-        ]
-    }
-    ]
-}
+	{
+		"caption": "Preferences",
+		"id": "preferences",
+		"children":
+	    [
+		    {
+		        "caption": "Customized Settings",
+		        "id": "customized-settings",
+		        "children":
+		        [
+			        {
+			            "caption": "multi_up",
+			            "id": "multi_up",
+			            "command": "multi_up"
+			        },
+			        {
+			        	"caption": "multi_down",
+			        	"id": "multi_down",
+			        	"command": "multi_down"
+			        }
+		        ]
+		    }
+	    ]
+	}
 ]
