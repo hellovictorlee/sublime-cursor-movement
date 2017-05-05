@@ -1,5 +1,5 @@
 # Sublime-cursor-movement
-alt+up : make cursor move five lines
-alt+down : make cursor move five lines down
-shift+alt+up : select five lines upward
-shift+alt+down : select five lines downward
+alt+up : make cursor move five lines\n
+alt+down : make cursor move five lines down\n
+shift+alt+up : select five lines upward\n
+shift+alt+down : select five lines downward\n
