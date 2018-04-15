@@ -11,18 +11,9 @@ In Windows, ```Tools``` > ```Command Palette``` > ```Package Control: Add Reposi
 
 Go to ```Package Control: Add Repository```.
 
-<p align='center'>
-<img src='img/img1.png' style='max-width:200px'></img>
-</p>
-
 Add repository ```https://github.com/ShuaiHsunLee/sublime-cursor-movement```
 <p align='center'>
 <img src='img/img2.png' style='max-width:350px'></img>
-</p>
-
-Go to ```Package Control: Install Package```.
-<p align='center'>
-<img src='img/img3.png' style='max-width:200px'></img>
 </p>
 
 Add package called ```sublime-cursor-movement```.
